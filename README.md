@@ -1,7 +1,7 @@
 # SFC System (temporary name)
 
 ## Description
-> This project is related with the building of a shop floor control system for small businesses. It is focused to control the shop floor processes in a basic manner, without the usage of M.R.P. process. Its functionality must be deacoupled of the order rules, it just need to show the current snapshot of the entire shop floor, and also need to show the delivery date of the parts and products, showing if the part or product is inside the deadline or not.
+> This project is related with the building of a shop floor control system for small businesses. It is focused to control the shop floor processes in a basic manner, without the usage of a M.R.P. process. Its functionality must be deacoupled from the order rules, it just need to show the current snapshot of the entire shop floor, and also need to show the delivery date of the parts and products, showing if the part or product is inside the deadline or not.
 
 ## Points to be covered by the solution
 * The average processing time of each product machinery/assembly step
